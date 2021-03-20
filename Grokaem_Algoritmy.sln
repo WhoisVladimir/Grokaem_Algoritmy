@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_BinarySearch", "01_BinarrySearch\01_BinarySearch.csproj", "{1E0A52E8-E3EE-4F5D-B008-B5A3058F52D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SelectionSort", "02_SelectionSort\02_SelectionSort.csproj", "{EDCB4213-CC59-4241-A8FF-E0B51E68C255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_SelectionSort", "02_SelectionSort\02_SelectionSort.csproj", "{EDCB4213-CC59-4241-A8FF-E0B51E68C255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_QuickSort", "03_QuickSort\03_QuickSort.csproj", "{5219B0B7-05ED-409D-9EE7-28F07164A3D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_QuickSort", "03_QuickSort\03_QuickSort.csproj", "{5219B0B7-05ED-409D-9EE7-28F07164A3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BreadthFirstSearch", "04_BreadthFirstSearch\04_BreadthFirstSearch.csproj", "{D73139AF-90C5-42CF-B473-DED5AFC24DF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5219B0B7-05ED-409D-9EE7-28F07164A3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5219B0B7-05ED-409D-9EE7-28F07164A3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5219B0B7-05ED-409D-9EE7-28F07164A3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
