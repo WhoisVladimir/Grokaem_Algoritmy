@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_SelectionSort", "02_Sele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_QuickSort", "03_QuickSort\03_QuickSort.csproj", "{5219B0B7-05ED-409D-9EE7-28F07164A3D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BreadthFirstSearch", "04_BreadthFirstSearch\04_BreadthFirstSearch.csproj", "{D73139AF-90C5-42CF-B473-DED5AFC24DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_BreadthFirstSearch", "04_BreadthFirstSearch\04_BreadthFirstSearch.csproj", "{D73139AF-90C5-42CF-B473-DED5AFC24DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_DijkstraAlgorithm", "05_DijkstraAlgorithm\05_DijkstraAlgorithm.csproj", "{60FC56EB-1041-47D0-BC7B-1991FB097938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73139AF-90C5-42CF-B473-DED5AFC24DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FC56EB-1041-47D0-BC7B-1991FB097938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FC56EB-1041-47D0-BC7B-1991FB097938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FC56EB-1041-47D0-BC7B-1991FB097938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FC56EB-1041-47D0-BC7B-1991FB097938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
